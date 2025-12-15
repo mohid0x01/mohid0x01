@@ -85,9 +85,9 @@ I'm [r00t:~#] , a hacker and aspiring Cybersecurity Specialist and Bug Hunter. W
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
  
-  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohidqx&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/mohidqx/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=mohidqx&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/mohidqx/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohidqx&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohid0x01&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/mohid0x01/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=mohid0x01&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/mohid0x01/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohid0x01&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
 ---
@@ -97,7 +97,7 @@ I'm [r00t:~#] , a hacker and aspiring Cybersecurity Specialist and Bug Hunter. W
 <summary>Buy Me A Coffee</summary>
 
 
-<p align="center"><a href="https://buymeacoffee.com/mohidqx"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+<p align="center"><a href="https://buymeacoffee.com/mohid0x01"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
 
 </details>
 
