@@ -24,17 +24,33 @@
 
 ```bash
 ┌──(r00t㉿CyberOps)-[~]
-└─$ cat /etc/passwd | grep r00t
+└─$ cat whoami.txt | grep r00t
 
-Name     : Muhammad Mohid
-Handle   : @cyberops_r00t
-Role     : Bug Bounty Hunter | Sec Researcher
-Org      : TeamCyberOps (@mohidqx)
-Platforms: HackerOne · Bugcrowd
-Location : Sindh, Pakistan 🇵🇰
-Focus    : Web AppSec · Recon Automation
-           Offensive Tooling · Red Team Ops
-Email    : mohid.qx@proton.me
+Name .................. Muhammad Mohid
+Handle ................ @cyberops_r00t
+Role .................. Bug Bounty Hunter | Sec Researcher
+Org ................... TeamCyberOps (@mohidqx)
+Platforms ............. HackerOne · Bugcrowd
+Location .............. Sindh, Pakistan 🇵🇰
+Focus ................. Web AppSec · Recon Automation
+                        {Offensive Tooling · Red Team Ops}
+Email ................. mohid.qx@proton.me
+
+[✓] OSCP .............. Offensive Security Certified Professional
+[✓] C|EH .............. Certified Ethical Hacker
+[✓] C|SSP ............. Certified Information Systems Security Professional
+[✓] CWSE .............. Certified Web Security Expert
+[✓] eCPPT ............. CompTIA PenTest+, eLearnSecurity 
+[✓] eWPTX ............. Web Application Penetration Tester eXtreme
+[✓] OSWE .............. OffSec Web Expert
+
+[★] NASA HoP .......... 25 Vulnerabilities Discovered (VDP Acknowledgement)
+[★] TOP ............... Sindh's TOP Hacker
+[★] IBA University .... Best Cybersecurity Performance Award
+                        (Incubation Center — offensive & defensive security)
+[🚩] 30 Days 30 CTFs .. Completed — Web / Crypto / Forensics (Full Write-ups)
+                        Platforms: TryHackMe · HackTheBox · PicoCTF
+[🐛] BugHunter ........ Critical/High severity findings — HackerOne + Bugcrowd
 ```
 
 - 🐛 Active researcher on **HackerOne** & **Bugcrowd** — `@cyberops_r00t`
@@ -265,8 +281,6 @@ Email    : mohid.qx@proton.me
 </div>
 
 ---
-
-## 🏅 Certifications & Awards
 
 ```bash
 ┌──(r00t㉿CyberOps)-[~]
