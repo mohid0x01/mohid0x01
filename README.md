@@ -178,8 +178,7 @@ Email ................. mohid.qx@proton.me
 <div>
 <p align="left">
 <img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/main/static/nuclei-logo.png" width="42" title="Nuclei Engine"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Nmap"/>
-<img src="https://skillicons.dev/icons?i=ae" width="42" title="Burp Suite (Proxy)"/>
+<img src="https://skillicons.dev/icons?i=arch" width="42" title="Arch Linux"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" width="42" title="Shodan/Network Scanning"/>
 <img src="https://img.icons8.com/color/48/000000/shield.png" width="42" title="Security Tooling"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="SQLMap / Python Scripts"/>
@@ -198,10 +197,10 @@ Email ................. mohid.qx@proton.me
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" title="Flutter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Kali Linux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux Systems"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="42" title="Supabase"/>
+  <img src="https://skillicons.dev/icons?i=py,go,bash,kali,docker,git,supabase,tailwind,mysql,nestjs,redhat,postman" />
 </p>
 
 </div>
@@ -239,11 +238,9 @@ Email ................. mohid.qx@proton.me
 </div>
 
 ---
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,bash,linux,kali,docker,git,supabase,react,nextjs,tailwind,mysql,ts,js&perline=7" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohidqx/mohidqx/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
 
 <!-- Footer -->
 <div align="center">
