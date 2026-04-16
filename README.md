@@ -2,11 +2,6 @@
 <div align="center">
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=%5Br00t%3A~%23%5D&fontSize=70&fontColor=00ff41&fontAlignY=38&desc=Muhammad%20Mohid%20%E2%80%94%20BugHunter%20%7C%20Security%20Researcher%20%7C%20Builder&descAlignY=58&descSize=16&descColor=888888&animation=twinkling" />
-  <div align="center">
-  <img src="https://github.com/user-attachments/assets/b075108e-7370-4239-9b4f-1effd5ee1889" width="400" alt="enrty" />
-  
-  <br>
-  
   <h3><i>System Compromised by TeamCyberOps</i></h3>
 </div>
 <!-- Typing SVG -->
@@ -179,98 +174,60 @@ Email ................. mohid.qx@proton.me
 ```
 
 ---
-
-## ⚡ Security Arsenal
+⚡ Security Arsenal
 
 <details open>
-<summary><b>🔎 Recon &amp; OSINT</b></summary>
-<br>
+<summary><b>🔎 Recon & OSINT</b></summary>
 
-![Nmap](https://img.shields.io/badge/Nmap-black?style=for-the-badge&logoColor=00ff41)
-![Shodan](https://img.shields.io/badge/Shodan-black?style=for-the-badge&logoColor=FF0000)
-![Amass](https://img.shields.io/badge/Amass-black?style=for-the-badge&logoColor=00ff41)
-![Subfinder](https://img.shields.io/badge/Subfinder-black?style=for-the-badge&logoColor=00ff41)
-![FFUF](https://img.shields.io/badge/FFUF-black?style=for-the-badge&logoColor=00ff41)
-![Gobuster](https://img.shields.io/badge/Gobuster-black?style=for-the-badge&logoColor=00ff41)
-![Uncover](https://img.shields.io/badge/Uncover-black?style=for-the-badge&logoColor=00ff41)
-![theHarvester](https://img.shields.io/badge/theHarvester-black?style=for-the-badge&logoColor=00ff41)
-
+<p align="left">
+<img src="https://user-attachments/assets/65b9a071-872e-4363-9a3d-a51f33f6630b" width="42" title="Nuclei"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Nmap"/>
+<img src="https://user-attachments/assets/9574c810-7e3e-46c1-a2c3-488663806a6b" width="42" title="Burp Proxy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" width="42" title="Shodan/Network Scanning"/>
+</p>
 </details>
 
 <details open>
 <summary><b>🕸 Web Application Testing</b></summary>
-<br>
 
-![Burp Suite Pro](https://img.shields.io/badge/Burp_Suite_Pro-black?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-black?style=for-the-badge&logo=owasp&logoColor=00ff41)
-![Nuclei](https://img.shields.io/badge/Nuclei-black?style=for-the-badge&logoColor=00ff41)
-![SQLMap](https://img.shields.io/badge/SQLMap-black?style=for-the-badge&logoColor=FF0000)
-![XSStrike](https://img.shields.io/badge/XSStrike-black?style=for-the-badge&logoColor=FF6600)
-![Dalfox](https://img.shields.io/badge/Dalfox-black?style=for-the-badge&logoColor=00ff41)
-![Nikto](https://img.shields.io/badge/Nikto-black?style=for-the-badge&logoColor=FF6600)
-
+<p align="left">
+<img src="https://user-attachments/assets/9574c810-7e3e-46c1-a2c3-488663806a6b" width="42" title="Burp Suite Pro"/>
+<img src="https://user-attachments/assets/65b9a071-872e-4363-9a3d-a51f33f6630b" width="42" title="Nuclei Engine"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="SQLMap / Python Scripts"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="XSStrike / JS Analysis"/>
+</p>
 </details>
+🛠 Tech Stack
+💻 Languages
 
-<details>
-<summary><b>💣 Exploitation &amp; Network</b></summary>
-<br>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" title="Go"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java"/>
+</p>
+🌐 Web & Frameworks
 
-![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=008C8C)
-![Hydra](https://img.shields.io/badge/Hydra-black?style=for-the-badge&logoColor=FF0000)
-![Hashcat](https://img.shields.io/badge/Hashcat-black?style=for-the-badge&logoColor=FF6600)
-![John](https://img.shields.io/badge/John_the_Ripper-black?style=for-the-badge&logoColor=00ff41)
-![Impacket](https://img.shields.io/badge/Impacket-black?style=for-the-badge&logoColor=00ff41)
-![Wireshark](https://img.shields.io/badge/Wireshark-black?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-![Netcat](https://img.shields.io/badge/Netcat-black?style=for-the-badge&logoColor=00ff41)
-![Masscan](https://img.shields.io/badge/Masscan-black?style=for-the-badge&logoColor=FF6600)
-![Bettercap](https://img.shields.io/badge/Bettercap-black?style=for-the-badge&logoColor=FF0000)
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" title="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" title="Flask"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" title="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS"/>
+</p>
+☁️ Systems & DevOps
 
-</details>
-
-<details>
-<summary><b>🔬 Forensics &amp; Reverse Engineering</b></summary>
-<br>
-
-![Ghidra](https://img.shields.io/badge/Ghidra-black?style=for-the-badge&logo=ghidra&logoColor=FF0000)
-![Volatility](https://img.shields.io/badge/Volatility-black?style=for-the-badge&logoColor=00ff41)
-![Binwalk](https://img.shields.io/badge/Binwalk-black?style=for-the-badge&logoColor=00ff41)
-![CyberChef](https://img.shields.io/badge/CyberChef-black?style=for-the-badge&logoColor=FF6600)
-![Autopsy](https://img.shields.io/badge/Autopsy-black?style=for-the-badge&logoColor=00ff41)
-
-</details>
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=3776AB)
-![Go](https://img.shields.io/badge/Go-black?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk&logoColor=007396)
-
-**Web & Frameworks**
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js&logoColor=8CC84C)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=FFFFFF)
-![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=02569B)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-**Systems & DevOps**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-black?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-black?style=for-the-badge&logoColor=2E8E8F)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=F05032)
-![Supabase](https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+<p align="left">
+<img src="https://user-attachments/assets/51c4a005-f938-4e8c-8594-5b487d27e77b" width="42" title="Kali Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux Systems"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="42" title="Supabase"/>
+</p>
 
 </div>
 
