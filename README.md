@@ -175,32 +175,15 @@ Email ................. mohid.qx@proton.me
 
 ---
 ⚡ Security Arsenal
-
-<details open>
-<summary><b>🔎 Recon & OSINT</b></summary>
-
+<div>
 <p align="left">
-<img src="https://user-attachments/assets/65b9a071-872e-4363-9a3d-a51f33f6630b" width="42" title="Nuclei"/>
+<img src="https://raw.githubusercontent.com/projectdiscovery/nuclei/main/static/nuclei-logo.png" width="42" title="Nuclei Engine"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Nmap"/>
-<img src="https://user-attachments/assets/9574c810-7e3e-46c1-a2c3-488663806a6b" width="42" title="Burp Proxy"/>
+<img src="https://skillicons.dev/icons?i=ae" width="42" title="Burp Suite (Proxy)"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/networkx/networkx-original.svg" width="42" title="Shodan/Network Scanning"/>
-</p>
-</details>
-
-<details open>
-<summary><b>🕸 Web Application Testing</b></summary>
-
-<p align="left">
-<img src="https://user-attachments/assets/9574c810-7e3e-46c1-a2c3-488663806a6b" width="42" title="Burp Suite Pro"/>
-<img src="https://user-attachments/assets/65b9a071-872e-4363-9a3d-a51f33f6630b" width="42" title="Nuclei Engine"/>
+<img src="https://img.icons8.com/color/48/000000/shield.png" width="42" title="Security Tooling"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="SQLMap / Python Scripts"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="XSStrike / JS Analysis"/>
-</p>
-</details>
-🛠 Tech Stack
-💻 Languages
-
-<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" title="Go"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/>
@@ -208,21 +191,13 @@ Email ................. mohid.qx@proton.me
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" title="C"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java"/>
-</p>
-🌐 Web & Frameworks
-
-<p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="42" title="Next.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" title="Node.js"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="42" title="Flask"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="42" title="Flutter"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="42" title="Tailwind CSS"/>
-</p>
-☁️ Systems & DevOps
-
-<p align="left">
-<img src="https://user-attachments/assets/51c4a005-f938-4e8c-8594-5b487d27e77b" width="42" title="Kali Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Kali Linux"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" title="Linux Systems"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" title="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" title="Git"/>
