@@ -1,6 +1,14 @@
+
 <div align="center">
 <!-- Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=%5Br00t%3A~%23%5D&fontSize=70&fontColor=00ff41&fontAlignY=38&desc=Muhammad%20Mohid%20%E2%80%94%20BugHunter%20%7C%20Security%20Researcher%20%7C%20Builder&descAlignY=58&descSize=16&descColor=888888&animation=twinkling" />
+  <div align="center">
+  <img src="https://github.com/user-attachments/assets/b075108e-7370-4239-9b4f-1effd5ee1889" width="400" alt="enrty" />
+  
+  <br>
+  
+  <h3><i>System Compromised by TeamCyberOps</i></h3>
+</div>
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=Security-focused+Full+Stack+Engineer;Active+Bug+Bounty+Researcher+%40cyberops_r00t;Builder+%26+Breaker+%F0%9F%94%A5;TeamCyberOps+%7C+HackerOne+%7C+Bugcrowd" alt="Typing SVG" />
