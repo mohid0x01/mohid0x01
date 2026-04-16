@@ -20,7 +20,6 @@
 </div>
 
 ---
-<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api?username=mohid0x01&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&custom_title=mohid0x01%20%E2%80%94%20Personal" />
 
 ## `whoami`
 
@@ -63,6 +62,7 @@ Email ................. mohid.qx@proton.me
 - ⚡ Custom recon pipeline cuts per-target enumeration time by **60%**
 
 <br clear="right"/>
+<img align="right" width="350px" src="https://github-readme-stats.vercel.app/api?username=mohid0x01&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&custom_title=mohid0x01%20%E2%80%94%20Personal" />
 
 ---
 
