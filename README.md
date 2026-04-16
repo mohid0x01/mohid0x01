@@ -282,29 +282,6 @@ Email ................. mohid.qx@proton.me
 
 ---
 
-```bash
-┌──(r00t㉿CyberOps)-[~]
-└─$ cat certs.txt
-
-[✓] OSCP  ............. Offensive Security Certified Professional
-[✓] C|EH  ............. Certified Ethical Hacker
-[✓] C|SSP ............. Certified Information Systems Security Professional
-[✓] CWSE .............. Certified Web Security Expert
-[✓] eCPPT ............. CompTIA PenTest+, eLearnSecurity Certified Professional Penetration Tester
-[✓] eWPTX ............. Web Application Penetration Tester eXtreme
-[✓] OSWE .............. OffSec Web Expert
-
-[★] NASA HoP .......... 25 Vulnerabilities Discovered (VDP Acknowledgement)
-[★] TOP ............... Sindh's TOP Hacker
-[★] IBA University .... Best Cybersecurity Performance Award
-                        (Incubation Center — offensive & defensive security)
-[🚩] 30 Days 30 CTFs .. Completed — Web / Crypto / Forensics (Full Write-ups)
-                        Platforms: TryHackMe · HackTheBox · PicoCTF
-[🐛] BugHunter ........ Critical/High severity findings — HackerOne + Bugcrowd
-```
-
----
-
 ## 🌐 Connect
 
 <div align="center">
@@ -327,7 +304,7 @@ Email ................. mohid.qx@proton.me
 
 <!-- Snake animation -->
 <div align="center">
-  <img src="https://github.com/mohid0x01/mohid0x01/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://github.com/mohid0x01/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 <!-- Footer -->
 <div align="center">
