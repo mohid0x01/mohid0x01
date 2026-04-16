@@ -1,7 +1,7 @@
 
 <div align="center">
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=%5Br00t%3A~%23%5D&fontSize=70&fontColor=00ff41&fontAlignY=38&desc=r00t:~#%20%E2%80%94%20eWPTX%20%7C%20Security%20Researcher%20%7C%20Builder&descAlignY=58&descSize=16&descColor=888888&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=%5Br00t%3A~%23%5D&fontSize=70&fontColor=00ff41&fontAlignY=38&desc=r00t:~%20%E2%80%94%20eWPTX%20%7C%20Security%20Researcher%20%7C%20Builder&descAlignY=58&descSize=16&descColor=888888&animation=twinkling" />
   <h3><i>Never give up. Never back down." — [r00t:~#]</i></h3>
 </div>
 <!-- Typing SVG -->
