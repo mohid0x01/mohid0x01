@@ -303,9 +303,7 @@ Email ................. mohid.qx@proton.me
 ---
 
 <!-- Snake animation -->
-<div align="center">
-  <img src="https://github.com/mohid0x01/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</div>
+![snake gif](https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg)
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" />
