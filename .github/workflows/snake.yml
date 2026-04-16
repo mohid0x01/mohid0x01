@@ -1,5 +1,5 @@
 uses: Platane/snk@v3
 with:
-  github_user_name: mohid0x01
+  github_user_name: torvalds
   outputs: |
     dist/github-contribution-grid-snake-dark.svg?palette=github-dark
