@@ -273,7 +273,7 @@ Email ................. mohid.qx@proton.me
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohid0x01&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&custom_title=Personal%20%E2%80%94%20mohid0x01" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohidqx&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&custom_title=Org%20%E2%80%94%20mohidqx%20(TeamCyberOps)" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohid0x01&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&custom_title=Org%20%E2%80%94%20mohidqx%20(TeamCyberOps)" />
 
 <img width="49%" src="https://streak-stats.demolab.com?user=mohid0x01&theme=dark&bg_color=0d1117&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=00ff41&dates=888888" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohid0x01&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=c9d1d9&langs_count=8" />
