@@ -1,11 +1,9 @@
 <div align="center">
-
-<!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:001a00,100:0d1117&height=220&section=header&text=%5Br00t%3A~%23%5D&fontSize=72&fontColor=00ff41&fontAlignY=36&desc=Muhammad%20Mohid%20%E2%80%94%20Bug%20Hunter%20%7C%20Security%20Researcher%20%7C%20Builder%20%26%20Breaker&descAlignY=58&descSize=15&descColor=4a9e4a&animation=twinkling" />
-
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=200&section=header&text=%5Br00t%3A~%23%5D&fontSize=70&fontColor=00ff41&fontAlignY=38&desc=Muhammad%20Mohid%20%E2%80%94%20BugHunter%20%7C%20Security%20Researcher%20%7C%20Builder&descAlignY=58&descSize=16&descColor=888888&animation=twinkling" />
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&multiline=false&width=680&lines=Security-focused+Full+Stack+Engineer+%F0%9F%94%A5;Active+Bug+Bounty+Researcher+%40cyberops_r00t;Custom+Offensive+Tooling+%7C+TeamCyberOps;HackerOne+%7C+Bugcrowd+%7C+CTF+Champion;Builder+of+Things+%E2%80%94+Breaker+of+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=Security-focused+Full+Stack+Engineer;Active+Bug+Bounty+Researcher+%40cyberops_r00t;Builder+%26+Breaker+%F0%9F%94%A5;TeamCyberOps+%7C+HackerOne+%7C+Bugcrowd" alt="Typing SVG" />
 </a>
 
 <br/>
