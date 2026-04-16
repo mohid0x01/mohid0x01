@@ -326,11 +326,12 @@ Email ................. mohid.qx@proton.me
 ---
 
 <!-- Snake animation -->
-## My Contribution snake
-![Contribution snake example](https://github.com/mohid0x01/blob/output/github-contribution-grid-snake.svg)
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:001a00,100:0d1117&height=120&section=footer" />
-
 <div align="center">
-  <sub><code>[r00t:~#] "Never give up. Never back down." — @cyberops_r00t</code></sub>
+  <img src="https://github.com/mohid0x01/mohid0x01/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</div>
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" />
+  
+  <sub><i>"Never give up. Never back down." — [r00t:~#]</i></sub>
 </div>
