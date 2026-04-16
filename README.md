@@ -12,10 +12,10 @@
 <br/>
 
 <!-- Profile views & social -->
-![Profile Views](https://komarev.com/ghpvc/?username=mohid0x01&style=flat-square&color=00ff41&label=PROFILE+VIEWS)
-[![HackerOne](https://img.shields.io/badge/HackerOne-@cyberops--root-black?style=flat-square&logo=hackerone&logoColor=FF6600)](https://hackerone.com/cyberops-root?type=user)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-@cyberops__r00t-black?style=flat-square&logo=bugcrowd&logoColor=F26722)](https://bugcrowd.com/h/cyberops_r00t)
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohid0x01.vercel.app-black?style=flat-square&logo=vercel&logoColor=00ff41)](https://mohid0x01.vercel.app)
+![Profile Views](https://komarev.com/ghpvc/?username=mohid0x01&style=flat-square&color=000000&label=PROFILE+VIEWS)
+[![HackerOne](https://img.shields.io/badge/HackerOne-@cyberops--root-black?style=flat-square&logo=hackerone&logoColor=000000)](https://hackerone.com/cyberops-root?type=user)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-@cyberops__r00t-black?style=flat-square&logo=bugcrowd&logoColor=000000)](https://bugcrowd.com/h/cyberops_r00t)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohid0x01.vercel.app-black?style=flat-square&logo=vercel&logoColor=000000)](https://mohid0x01.vercel.app)
 
 </div>
 
@@ -226,24 +226,25 @@ Email ................. mohid.qx@proton.me
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mohid0x01.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=00ff41)](https://mohid0x01.vercel.app)
-[![HackerOne](https://img.shields.io/badge/HackerOne-cyberops--root-black?style=for-the-badge&logo=hackerone&logoColor=FF6600)](https://hackerone.com/cyberops-root?type=user)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-cyberops__r00t-black?style=for-the-badge&logo=bugcrowd&logoColor=F26722)](https://bugcrowd.com/h/cyberops_r00t)
-
-[![GitHub Org](https://img.shields.io/badge/TeamCyberOps-@mohidqx-black?style=for-the-badge&logo=github&logoColor=00ff41)](https://github.com/mohidqx)
-[![GitHub Personal](https://img.shields.io/badge/Personal-@mohid0x01-black?style=for-the-badge&logo=github&logoColor=c9d1d9)](https://github.com/mohid0x01)
-[![X](https://img.shields.io/badge/X-@cyberops__r00t-black?style=for-the-badge&logo=x&logoColor=FFFFFF)](https://x.com/cyberops_r00t)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-@mohid.qx-black?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/mohid.qx)
-[![Instagram](https://img.shields.io/badge/Instagram-@mohid.qx-black?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://instagram.com/mohid.qx)
-[![Email](https://img.shields.io/badge/ProtonMail-mohid.qx@proton.me-black?style=for-the-badge&logo=protonmail&logoColor=6D4AFF)](mailto:mohid.qx@proton.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohid0x01.vercel.app-black?style=for-the-badge&logo=vercel&logoColor=000000)](https://mohid0x01.vercel.app)
+[![HackerOne](https://img.shields.io/badge/HackerOne-cyberops--root-black?style=for-the-badge&logo=hackerone&logoColor=000000)](https://hackerone.com/cyberops-root?type=user)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-cyberops__r00t-black?style=for-the-badge&logo=bugcrowd&logoColor=000000)](https://bugcrowd.com/h/cyberops_r00t)
+[![GitHub Org](https://img.shields.io/badge/TeamCyberOps-@mohidqx-black?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/mohidqx)
+[![GitHub Personal](https://img.shields.io/badge/Personal-@mohid0x01-black?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/mohid0x01)
+[![X](https://img.shields.io/badge/X-@cyberops__r00t-black?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/cyberops_r00t)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@mohid.qx-black?style=for-the-badge&logo=linkedin&logoColor=000000)](https://linkedin.com/in/mohid.qx)
+[![Instagram](https://img.shields.io/badge/Instagram-@mohid.qx-black?style=for-the-badge&logo=instagram&logoColor=000000)](https://instagram.com/mohid.qx)
+[![Email](https://img.shields.io/badge/ProtonMail-mohid.qx@proton.me-black?style=for-the-badge&logo=protonmail&logoColor=000000)](mailto:mohid.qx@proton.me)
 
 </div>
 
 ---
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,go,bash,linux,kali,docker,git,supabase,react,nextjs,tailwind,mysql,ts,js&perline=7" />
+  </a>
+</p>
 
-<!-- Snake animation -->
-![snake gif](https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg)
 <!-- Footer -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff41,100:0d1117&height=100&section=footer" />
