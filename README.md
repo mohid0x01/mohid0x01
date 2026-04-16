@@ -162,7 +162,7 @@ Email ................. mohid.qx@proton.me
 | Platform | Handle | Severity Focus |
 |:---:|:---:|:---:|
 | ![HackerOne](https://img.shields.io/badge/HackerOne-black?style=for-the-badge&logo=hackerone&logoColor=808080) | [@cyberops-root](https://hackerone.com/cyberops-root?type=user) | Web Apps · API · Auth Bypass |
-| ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-black?style=for-the-badge&logo=bugcrowd&logoColor=FFFFFF) | [@cyberops_r00t](https://bugcrowd.com/h/cyberops_r00t) | IDOR · Access Control · Info Disclosure |
+| ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-black?style=for-the-badge&logo=bugcrowd&logoColor=808080) | [@cyberops_r00t](https://bugcrowd.com/h/cyberops_r00t) | IDOR · Access Control · Info Disclosure |
 
 </div>
 
