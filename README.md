@@ -77,6 +77,9 @@ Email ................. mohid.qx@proton.me
 
 ### 🔴 Offensive & Recon
 
+**[sub2ip](https://github.com/mohidqx/sub2ip)** `Go`
+> High-perf Go-based recon tool — maps origin IP by subdomain enumeration, detects WAF configs. Built for speed.
+
 **[OriginMapper](https://github.com/mohidqx/OriginMapper)** `Go`
 > High-perf Go-based recon tool — maps origin servers, detects WAF configs & bypasses edge security layers. Built for speed.
 
@@ -118,6 +121,8 @@ Email ................. mohid.qx@proton.me
 
 | Project | Stack | Description | Stars |
 |---|:---:|---|:---:|
+| [**ip2sub**](https://github.com/mohidqx/sub2ip) | `Go` | High-performance IP to Subdomains Resolver — WAF detection & edge bypass | — |
+| [**sub2ip**](https://github.com/mohidqx/sub2ip) | `Go` | High-performance Subdomains to IP resolver -- IDS | — |
 | [**OriginMapper**](https://github.com/mohidqx/OriginMapper) | `Go` | High-performance origin server mapper — WAF detection & edge bypass | — |
 | [**WebCrawl**](https://github.com/mohidqx/WebCrawl) | `Python` | OSINT + Gemini AI — intelligent endpoint discovery & automated recon v5.4 | — |
 | [**TeamCyberOps-Suite**](https://github.com/mohidqx/TeamCyberOps-Suite) | `Python` | Full offensive suite v5.0.5+ — enter target, everything runs automatically | ⭐ 1 |
