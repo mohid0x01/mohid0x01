@@ -33,7 +33,7 @@ Handle ................ @cyberops_r00t
 Role .................. Bug Bounty Hunter | Sec Researcher
 Org ................... TeamCyberOps (@mohidqx)
 Platforms ............. HackerOne · Bugcrowd
-Location .............. Sindh, Pakistan 🇵🇰
+Location .............. Sukkur, Sindh, Pakistan 🇵🇰
 Focus ................. Web AppSec · Recon Automation
                         {Offensive Tooling · Red Team Ops}
 Email ................. mohid.qx@proton.me
