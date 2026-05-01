@@ -120,7 +120,7 @@ Email ................. mohid.qx@proton.me
 
 | Project | Stack | Description | Stars |
 |---|:---:|---|:---:|
-| [**HTTPSmuggler **](https://github.com/mohidqx/HTTPSmuggler ) | `Shell` | HTTP Request Smuggling Detection & Verification Framework | — |
+| [**HTTPSmuggler**](https://github.com/mohidqx/HTTPSmuggler ) | `Shell` | HTTP Request Smuggling Detection & Verification Framework | — |
 | [**ip2sub**](https://github.com/mohidqx/sub2ip) | `Go` | High-performance IP to Subdomains Resolver — WAF detection & edge bypass | — |
 | [**sub2ip**](https://github.com/mohidqx/sub2ip) | `Go` | High-performance Subdomains to IP resolver -- IDS | — |
 | [**OriginMapper**](https://github.com/mohidqx/OriginMapper) | `Go` | High-performance origin server mapper — WAF detection & edge bypass | — |
