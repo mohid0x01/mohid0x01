@@ -93,6 +93,8 @@ Email ................. mohid.qx@proton.me
 <td width="50%" valign="top">
 
 ### 🟡 Recon Automation
+**[HTTPSmuggler](https://github.com/mohidqx/HTTPSmuggler)** `Shell`
+> A high-fidelity automated tool for identifying HTTP Request Smuggling vulnerabilities across frontend-backend architectures. Detects CL.TE, TE.CL, TE.TE, and CL.0 smuggling vectors using timing and differential response analysis.
 
 **[HuntNtakeover](https://github.com/mohidqx/HuntNtakeover)** `Shell`
 > Highly concurrent multi-stage recon pipeline — auto-discovers subdomains & scans for **80+ takeover vulnerabilities**.
@@ -118,6 +120,7 @@ Email ................. mohid.qx@proton.me
 
 | Project | Stack | Description | Stars |
 |---|:---:|---|:---:|
+| [**HTTPSmuggler **](https://github.com/mohidqx/HTTPSmuggler ) | `Shell` | HTTP Request Smuggling Detection & Verification Framework | — |
 | [**ip2sub**](https://github.com/mohidqx/sub2ip) | `Go` | High-performance IP to Subdomains Resolver — WAF detection & edge bypass | — |
 | [**sub2ip**](https://github.com/mohidqx/sub2ip) | `Go` | High-performance Subdomains to IP resolver -- IDS | — |
 | [**OriginMapper**](https://github.com/mohidqx/OriginMapper) | `Go` | High-performance origin server mapper — WAF detection & edge bypass | — |
