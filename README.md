@@ -243,6 +243,7 @@ Email ................. mohid.qx@proton.me
 </div>
 
 **Muhammad Mohid's (Pretty Good Privacy) public key is a cryptographic key utilized for encrypting messages and verifying signatures, ensuring secure communication. By sharing this public key, others can encrypt messages that only we can decrypt. To use it, simply import the public key into your PGP-compatible software.**
+<div align="center">
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 xjMEaggeABYJKwYBBAHaRw8BAQdAQIFvr3KzYfowWFqFKBOfo1oi9fUm8vX2
@@ -260,7 +261,7 @@ iTJCfi0yzwSsDFZ4h6dUGD0VfuqbVyxTAPwJxaQTWr5IE3pbxRDY67Dd/Z9+
 VAcuu/hr484mvEBGCw==
 =72YB
 -----END PGP PUBLIC KEY BLOCK-----
-
+</div>
 ---
 
 <!-- Footer -->
